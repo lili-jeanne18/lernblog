@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/pexels-daniel-jurin-1835712.jpg"
+image = "/media/pexels-jess-loiterton-4318913.jpg"
 color = ""
 +++
