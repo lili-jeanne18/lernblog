@@ -2,6 +2,6 @@
 headless = true
 icon = ""
 logo = ""
-image = "/media/pexels-jess-loiterton-4318913.jpg"
+image = "/media/pexels-asad-photo-maldives-3601422.jpg"
 color = ""
 +++
