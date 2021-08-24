@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/airplane.png"
 logo = ""
-image = "/media/pexels-ivan-7475368.jpg"
+image = "/media/pexels-jess-loiterton-4321207.jpg"
 color = ""
 +++
