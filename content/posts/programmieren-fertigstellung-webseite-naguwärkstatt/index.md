@@ -4,7 +4,7 @@ date = "2021-10-26"
 draft = false
 pinned = false
 tags = ["programmieren", "done"]
-image = "unbenannt.png"
+image = "unbenannt.pngg.png"
 description = "Endlich fertig!"
 +++
 Heute haben ich und Leo die Website von Linda fertiggestellt. Wir finden, dass die Website ein Glow-Up bekommen hat und richtig toll nun aussieht. 
