@@ -4,7 +4,7 @@ date = "2021-11-02"
 draft = false
 pinned = false
 tags = ["farbe", "veränderung"]
-image = "02.11.21.png"
+image = "20.2222.png"
 description = ""
 footnotes = "[Web Portfolio von Lili](http://127.0.0.1:5500/index.html)"
 +++
