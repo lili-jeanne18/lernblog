@@ -4,6 +4,7 @@ date = "2021-11-16"
 draft = false
 pinned = false
 tags = ["fertig"]
+image = "adobestock_232876719-975x488.jpeg"
 description = "Unser Nagelstudioprojekt ist erfolgreich abgeschlossen!"
 footnotes = ""
 +++
